@@ -97,7 +97,7 @@ def astar_search(maze, start, goal):
     return None, len(visited)
 
 
-# --- تنفيذ الكود وتشغيله ---
+
 start = find_position(maze, "S")
 goal = find_position(maze, "G")
 
